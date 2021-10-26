@@ -1,3 +1,6 @@
 [submodule "protobuf_decoder.git"]
 	path = protobuf_decoder
 	url = https://github.com/nevermoe/protobuf_decoder.git
+[submodule "ccl-bplist.git"]
+	path = ccl-bplist
+	url = https://github.com/cclgroupltd/ccl-bplist.git
