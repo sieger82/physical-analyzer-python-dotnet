@@ -1,0 +1,3 @@
+[submodule "ccl-bplist.git"]
+	path = ccl-bplist
+	url = https://github.com/cclgroupltd/ccl-bplist.git
