@@ -1,0 +1,6 @@
+C:\Users\Sieger\source\repos\hello_world\bin\Debug\hello_world.dll
+C:\Users\Sieger\source\repos\hello_world\bin\Debug\hello_world.pdb
+C:\Users\Sieger\source\repos\hello_world\obj\Debug\hello_world.csproj.AssemblyReference.cache
+C:\Users\Sieger\source\repos\hello_world\obj\Debug\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\Sieger\source\repos\hello_world\obj\Debug\hello_world.dll
+C:\Users\Sieger\source\repos\hello_world\obj\Debug\hello_world.pdb
